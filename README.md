@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaquinvelez23
-- 👀 I’m interested in C++ programming.
+- 👀 I’m interested in Python programming.
 - 🌱 I’m currently learning Computer Science Bachelor.
 - 👾 I love videogames, and Star Wars movies.
 <!---
